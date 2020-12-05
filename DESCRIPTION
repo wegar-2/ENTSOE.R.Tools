@@ -1,0 +1,19 @@
+Package: ENTSOE.R.Tools
+Type: Package
+Title: Set of functions for fetching ENTSO-E data.
+Version: 0.1.0
+Imports:
+    data.table,
+    ggplot2,
+    lubridate,
+    magrittr,
+    rvest,
+    XML,
+    xml2,
+    zoo
+Author: Artur Wegrzyn
+Maintainer: Artur Wegrzyn <awegrzyn17@gmail.com>
+Description: Functions for precise retrieval of ENTSOE data.
+License: MIT License
+Encoding: UTF-8
+LazyData: true
